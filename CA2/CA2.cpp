@@ -4,10 +4,12 @@
 #include "DListNode.h"
 #include "Tree.h"
 #include "TreeIterator.h"
+#include "Validation.h"
 
 using namespace std;
 
 int main()
 {
 	cout << "Hi" << endl;
+	return 0;
 }
